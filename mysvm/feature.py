@@ -222,4 +222,3 @@ def getlabels():
              'Rock']
     return labels
 
-
